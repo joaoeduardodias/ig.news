@@ -1,34 +1,137 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
 
-## Getting Started
+Ig.news
+</h1>
 
-First, run the development server:
+  <img src="./github/igNews.gif" />
+
+<p align="center">Application of news about the ReactJS library and the NextJS framework, created with the NextJS framework
+</p>
+<br>
+<br>
+<p align="center">
+ <a href="#Technologies">Technologies</a> •
+ <a href="#Get-Started">Get started</a> •
+ <a href="#Developer">Developer</a>
+</p>
+<br>
+<br>
+
+  ##  🚀  Technologies
+
+  This project was development with the following technologies
+
+<br>
+
+  -   ✅  Typescript
+  -   ✅  NextJS
+  -   ✅  ReactJS
+  -   ✅  NodeJS
+  -   ✅  Babel
+  -   ✅  Webpack
+  -   ✅  Sass
+  -   ✅  Create-next-app
+  -   ✅  Stripe 
+  -   ✅  Prismic CMS
+
+
+<br>
+<br>
+
+## 🏁  Get started
+
+### 🚧 To run the project, you must have installed [NodeJS](https://nodejs.org/en/) and, or [Yarn](https://yarnpkg.com/) 🚧
+<br>
+
+### First step is to open your terminal where you want to download the project.
+
+<br>
+
+### To download and initializing the project run the following command.
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/joaoeduardodias/ig.news.git ignews
+$ cd ignews
+$ yarn
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Then run the following command to start the application
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+$ yarn dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Open a tab in your browser with the project running with the following address:
+```bash
+$ http://localhost:3000
+```
+<br>
+<br>
+<br>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### The project's Home page will open
 
-## Learn More
+<br>
+<br>
+<br>
 
-To learn more about Next.js, take a look at the following resources:
+## 📓 About
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br>
+<br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p>
+  This Project is a subscription project, about news about reactJS and nextJS, with it we have the option to login with github, sign the application with stripe, and for the administrator, create posts with prismic.
+</p>
 
-## Deploy on Vercel
+<br>
+<br>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Images and Gifs of project
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br>
+<br>
+
+### Page Home
+<img src="https://ik.imagekit.io/joaodias/home_F9MivXRMT_.png?updatedAt=1638988671458&tr=w-1200,h-628,fo-auto">
+<br>
+<br>
+
+### Page list posts
+
+<img src="https://ik.imagekit.io/joaodias/posts_gqDcmO1ZcdV.png?updatedAt=1638988671404&tr=w-1200,h-628,fo-auto">
+<br>
+<br>
+
+### Page preview post
+<img src="https://ik.imagekit.io/joaodias/preview_NDKhxcs0O.png?updatedAt=1638988671548&tr=w-1200,h-628,fo-auto">
+<br>
+<br>
+
+### Page post completed
+<img src="https://ik.imagekit.io/joaodias/postCompleted_X0yIQXAj2.png?updatedAt=1638988671483&tr=w-1200,h-628,fo-auto">
+
+<br>
+<br>
+<br>
+
+## 👨‍🔧 Developer
+---
+<br>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49342574?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>João Dias</b></sub></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/" title="João Dias">&nbsp;&nbsp;🚀</a>
+
+
+Feito com ❤️ por João Dias 👋🏽 Entre em contato!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-João_Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/)](https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/)
+[![Gmail Badge](https://img.shields.io/badge/-joaoeduardodias123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoeduardodias123@gmail.com)](mailto:joaoeduardodias123@gmail.com)
+<br>
+<br>
+
+<h3 align="center">
+	🚧  RocketShoes  🚀  🚧
+</h3>
